@@ -1,0 +1,32 @@
+/* Estilos globais da page DevStars */
+
+main > section {
+   text-align: right;
+}
+
+main section div .page-container {
+    width: auto;
+    margin: none;
+    padding: none;
+    border: none;
+    text-align: right;
+}
+
+main h2.title {
+    font-size: 1.5em;
+}
+
+main h3.sub-title,
+main h4.sub-title {
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+main section table th,
+main section table td {
+    border: solid thin;
+    margin: 2px;
+    font-size: 0.85em;
+    text-align: center;
+}
+

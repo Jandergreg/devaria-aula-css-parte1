@@ -10,6 +10,10 @@ html {
     text-transform: uppercase;
 }
 
+.sub-title {
+    margin: 0 20px;
+
+}
 
 body {
     background-color: #1c0c3f;
