@@ -1,7 +1,13 @@
 /* Estilos globais do site */
 
 html {
-    height: 100px;
+    height: 100%;
+}
+
+.title {
+    padding: 0 20px;
+    font-size: 1.75em;
+    text-transform: uppercase;
 }
 
 body {
@@ -9,4 +15,12 @@ body {
     font-family: sans-serif;
     color: #fff;
     margin: 0;
+}
+
+h1.title {
+    margin: 40px auto 20px;
+}
+
+.text-justify {
+    text-align: justify;
 }
